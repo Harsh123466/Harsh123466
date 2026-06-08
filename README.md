@@ -95,7 +95,7 @@ Python, Hugging Face Transformers, PyTorch
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harsh-adhana-4b5042346/)
+* LinkedIn: [Link](https://www.linkedin.com/in/harsh-adhana-4b5042346/)
 
 ---
 
