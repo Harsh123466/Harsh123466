@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Harsh Adhana
 
-### AI & Machine Learning Enthusiast | AIML Engineering Student
+### AI & Machine Learning Enthusiast
 
-I'm a Computer Science Engineering (AI & ML) student passionate about building intelligent systems that solve real-world problems. I enjoy exploring Machine Learning, Deep Learning, Generative AI, and Retrieval-Augmented Generation (RAG).
+I'm a Computer Science Engineering student passionate about building intelligent systems that solve real-world problems. I enjoy exploring Machine Learning, Deep Learning, Generative AI, and Retrieval-Augmented Generation (RAG).
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (AI & ML) Student
+* 🎓 B.Tech CSE Student
 * 🌱 Currently learning Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI
 * 🤖 Interested in AI Engineering, LLM Applications, and Intelligent Systems
 * 💡 Love building projects that combine AI with practical applications
@@ -89,24 +89,13 @@ Python, Hugging Face Transformers, PyTorch
 
 * Master DSA and problem-solving
 * Build production-ready AI applications
-* Learn MLOps and model deployment
-* Contribute to open-source AI projects
 * Secure AI/ML internships and opportunities
-
----
-
-## 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN_URL
-* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harsh-adhana-4b5042346/)
 
 ---
 
