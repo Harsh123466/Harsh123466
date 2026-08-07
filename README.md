@@ -12,7 +12,7 @@ I'm a Computer Science Engineering student passionate about building intelligent
 * 🌱 Currently learning Data Structures & Algorithms, Machine Learning, Deep Learning, and Generative AI
 * 🤖 Interested in AI Engineering, LLM Applications, and Intelligent Systems
 * 💡 Love building projects that combine AI with practical applications
-* 📚 Continuously improving my problem-solving and software development skills
+* 📚 Continuously improving my problem-solving and AI/ML skills
 
 ---
 
@@ -27,7 +27,6 @@ I'm a Computer Science Engineering student passionate about building intelligent
 ### AI / Machine Learning
 
 * Scikit-Learn
-* TensorFlow
 * PyTorch
 * Transformers
 * Hugging Face
@@ -35,7 +34,7 @@ I'm a Computer Science Engineering student passionate about building intelligent
 ### Generative AI & LLM Tools
 
 * LangChain
-* FAISS
+* ChromaDB
 * RAG Pipelines
 * Vector Databases
 * Prompt Engineering
@@ -60,12 +59,12 @@ Built a Retrieval-Augmented Generation chatbot capable of answering questions fr
 
 * PDF text extraction
 * Chunking and embedding generation
-* FAISS vector database
+* ChromaDB vector database
 * Semantic search
 * LLM-powered question answering
 
 **Tech Used**
-LangChain, FAISS, Python, Generative AI
+LangChain, ChromaDB, Python, Generative AI
 
 ---
 
